@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 233444758
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tilemap.grid
+      Dependencies: {}
