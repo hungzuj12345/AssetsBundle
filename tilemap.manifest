@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 326368056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 115ee9b27a78cf07741e009e1134aafc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3309124302806c3dea6776e613ac655
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+Assets:
+- Assets/TileMap/TileMap_1.prefab
+Dependencies: []
